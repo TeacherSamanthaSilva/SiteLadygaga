@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+
+    color: #090809 ;
+    background: url(images/ladygaga.jpg);
+    margin-top: 30px;
+    background-color:#F08FAE    ;
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+}
+
+.fundotopo{
+    
+    display: none;
+
+}
+
+.fundotopo img{
+
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.conteudo{
+
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+header{
+
+    max-width: 800px;
+}
+
+header h2{
+
+    color: #A06FF1 ;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-left: 90px;
+    font-family: 'Seaweed Script', cursive;
+}
+
+header h3{
+
+    color:#0B0A0D ;
+    font-size: 28px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-left: 90px;
+    font-family: 'Sanchez', serif;
+    margin-bottom: 20px;
+
+
+}
+
+.comprar{
+
+    margin: 30px auto ;
+    max-width: 900px;
+    font-size: 0;
+    margin-right: 300px;
+    
+    
+    
+}
+
+.comprar ul li{
+
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.comprar li a{
+
+    display: block;
+    height: 42px;
+}
+
+.capa{
+
+    margin-top: 600px;
+    margin-left: 120px;
+    
+}
+
+.capa img{
+
+    margin-left: 100px;
+
+}
+.redes{
+
+    margin: 30px auto 60px;
+    max-width: 1200px;
+    font-size: 0;
+    margin-left: 30px;
+    
+    
+}
+
+.redes ul li{
+
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.redes li a{
+
+    display: block;
+    height: 42px;
+}
+
+section{
+
+    background-color:#F7719C  ;
+    padding: 40px 0 60px;
+    color: #090809;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 20px;
+    margin: 30px;
+
+}
+
+section h4{
+
+    margin: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+  
+iframe{
+    margin-left: 30px;
+}
+
+
+
